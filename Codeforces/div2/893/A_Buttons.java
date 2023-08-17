@@ -22,5 +22,6 @@ public class A_Buttons {
                 }
             }
         }
+        sc.close();
     }
 }
